@@ -118,8 +118,8 @@ ul.RSg3qFREWrqWCuUvDpJR li.eNs6P3JYpf2LScgTDHc6 a.link-subtle svg{
   background: var(--scrollbar-handle-active-color) !important;
 }
 .Root__main-view .os-scrollbar-vertical{
-  top: 70px;
-  bottom: 10px;
+  top: 70px !important;
+  bottom: 10px !important;
 }
 
 /*** top bar ***/
