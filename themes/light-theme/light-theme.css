@@ -6,6 +6,9 @@
   --primary-hover-color: #058132;
   --muted-color: #f5f5f5;
   --muted-hover-color: #caffde;
+  --scrollbar-track-color: #eee;
+  --scrollbar-handle-color: #c7c7c7;
+  --scrollbar-handle-active-color: #999;
 }
 
 html {
@@ -98,6 +101,25 @@ ul.RSg3qFREWrqWCuUvDpJR li.eNs6P3JYpf2LScgTDHc6 a.link-subtle svg{
 }
 .Foyk_HJx16yh22JYmQ56 .link-subtle:hover {
   color: var(--primary-color);
+}
+/*** scrollbar ***/
+.os-scrollbar{
+  /* opacity: 1 !important; */
+  /* visibility: visible; */
+}
+.os-scrollbar-track{
+  background: var(--scrollbar-track-color) !important;
+  border-radius: 10px;
+}
+.os-scrollbar-handle{
+  background: var(--scrollbar-handle-color) !important;
+}
+.os-scrollbar-handle.active{
+  background: var(--scrollbar-handle-active-color) !important;
+}
+.Root__main-view .os-scrollbar-vertical{
+  top: 70px;
+  bottom: 10px;
 }
 
 /*** top bar ***/
