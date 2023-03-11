@@ -328,3 +328,76 @@ button.fmWLzA:hover,
 .epWhU7hHGktzlO_dop6z {
   background-color: var(--text-color) !important;
 }
+/***** playlist page *****/
+.xYgjMpAjE5XT05aRIezb{
+  background: linear-gradient(transparent 0, rgba(255, 255, 255, 0.7) 100%);
+}
+.NXiYChVp4Oydfxd7rT5r,
+.UyzJidwrGk3awngSGIwv,
+.poz9gZKE7xqFwgk231J4,
+.xWm_uA0Co4SXVxaO7wlB,
+.fhrvNw,
+.qHWqOt_TYlFxiF0Dm2fD .G7zO58ORUHxcUw0sXktM,
+.T0anrkk_QA4IAQL29get{
+  color: var(--text-color) !important;
+}
+/* second section: songs list */
+.rezqw3Q4OEPB1m4rmwfw {
+  background: var(--background-color) !important;
+}
+.CoLO4pdSl8LGWyVZA00t{
+  background-image: linear-gradient(rgba(255, 255, 255, .6) 0, var(--background-color) 100%);
+}
+/* table items */
+.qJOhHoRcFhHJpEQ2CwFT.koyeY6AgGRPmyPITi7yO{
+  background: var(--topbar-background);
+  backdrop-filter: blur(var(--topbar-blur));
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: none;
+}
+.h4HgbO_Uu1JYg5UGANeQ:focus-within,
+.h4HgbO_Uu1JYg5UGANeQ:hover {
+  background-color: var(--muted-color);
+}
+.wTUruPetkKdWAR1dd6w4.iSbqnFdjb1SuyJ3uWydl{
+  background-color: var(--muted-color-hover);
+}
+.dZPmmYYhskhqHJCAruvI {
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-color-muted);
+}
+.VpYFchIiPg3tPhBGyynT {
+  color: var(--text-color-muted);
+}
+.bfQ2S9bMXr_kJjqEfcwA a,
+.rq2VQ5mb9SDAFWbBIUIn a {
+  color: var(--text-color-muted) !important;
+}
+.bfQ2S9bMXr_kJjqEfcwA a:hover,
+.rq2VQ5mb9SDAFWbBIUIn a:hover {
+  color: var(--text-color) !important;
+}
+.h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX,
+.h4HgbO_Uu1JYg5UGANeQ .kHHFyx{
+  color: inherit;
+}
+.h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX:hover{
+  color: var(--primary-color);
+}
+.RfidWIoz8FON2WhFoItU,
+.Fm7C3gdh5Lsc9qSXrQwO,
+.mYN_ST1TsDdC6q1k1_xs{
+  color: var(--text-color) !important;
+}
+.byLkljnIRd_DJeSMD3LM .RfidWIoz8FON2WhFoItU{
+  color: #fff !important;
+}
+.PZkwbwJD1afoCmJkGt8w{
+  color: var(--text-color) !important;
+}
+.jxpjIP{
+  color: var(--text-color-muted) !important;
+}
+.jxpjIP:hover {
+  color: var(--text-color) !important;
+}
