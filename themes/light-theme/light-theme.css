@@ -133,6 +133,22 @@ ul.RSg3qFREWrqWCuUvDpJR li.eNs6P3JYpf2LScgTDHc6 a.link-subtle svg{
 .Root__top-bar .T1xI1RTSFU7Wu94UuvE6 .EvIR4O7jOSbNmxtMdIQ0{
   background-color: transparent !important;
 }
+/* topbar profile and all dropdown menu */
+ul.SboKmDrCTZng7t4EgNoM {
+  background-color: var(--muted-color);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+}
+
+button.wC9sIed7pfp47wZbmU6m,
+a.wC9sIed7pfp47wZbmU6m {
+  color: var(--text-color);
+  cursor: pointer;
+}
+
+button.wC9sIed7pfp47wZbmU6m:hover,
+a.wC9sIed7pfp47wZbmU6m:hover {
+  color: var(--primary-color);
+}
 /* home: first section */
 .HsbczDqu9qjcYr7EIdHR{
   background-image: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-hover-color) 80%);
