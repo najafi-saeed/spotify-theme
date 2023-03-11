@@ -219,6 +219,13 @@ button.fmWLzA:hover,
 .Z35BWOA10YGn5uc9YgAp:hover{
   background: rgba(0, 0, 0, 0.1) !important;
 }
+/* show all buttons */
+.a7lvtXATo3HALtrsOHtO{
+  color: var(--text-color-muted) !important;
+}
+.a7lvtXATo3HALtrsOHtO:hover {
+  color: var(--primary-color) !important;
+}
 /* music card */
 .LunqxlFIupJw_Dkx6mNx{
   background: var(--muted-color);
