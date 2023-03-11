@@ -45,6 +45,9 @@ a:hover,
 button:hover {
   color: var(--primary-color);
 }
+h1,h2,h3,h4,h5,h6{
+  color: var(--text-color);
+}
 /*** leftbar ***/
 .Root__nav-bar {
   background-color: var(--muted-color);
@@ -206,6 +209,9 @@ button.fmWLzA:hover,
 /* main: first section */
 .Root__main-view .HsbczDqu9qjcYr7EIdHR{
   background-image: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
+}
+.onVWL7MW4PW9FyVajBAc .jOauWH{
+  color: var(--text-color);
 }
 .Z35BWOA10YGn5uc9YgAp {
   background: rgba(0, 0, 0, 0.03) !important;
