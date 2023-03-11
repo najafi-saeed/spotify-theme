@@ -10,6 +10,7 @@
   /* sections */
   --topbar-background: rgba(255, 255, 255, 0.7);
   --topbar-blur: 10px;
+  --leftbar-background: var(--muted-color);
   --playingbar-background: rgba(25,206,92, 0.85);
   --playingbar-blur: 5px;
   /* buttons */
@@ -55,7 +56,7 @@ h1,h2,h3,h4,h5,h6{
 }
 /*** leftbar ***/
 .Root__nav-bar {
-  background-color: var(--muted-color);
+  background-color: var(--leftbar-background);
   border-right: 1px solid var(--border-color);
 }
 /* leftbar logo */
