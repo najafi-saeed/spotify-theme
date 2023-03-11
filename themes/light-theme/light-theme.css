@@ -10,6 +10,8 @@
   /* sections */
   --topbar-background: rgba(255, 255, 255, 0.7);
   --topbar-blur: 10px;
+  --playingbar-background: rgba(25,206,92, 0.85);
+  --playingbar-blur: 5px;
   /* buttons */
   --primary-button-background:       var(--primary-color);
   --primary-button-background-hover: var(--primary-color-hover);
@@ -33,7 +35,10 @@
 html {
   background-color: var(--background-color);
 }
-body,
+body{
+  min-height: 100vh;
+  color: var(--text-color);
+}
 input {
   color: var(--text-color);
 }
@@ -141,7 +146,7 @@ ul.RSg3qFREWrqWCuUvDpJR li.eNs6P3JYpf2LScgTDHc6 a.link-subtle svg{
 }
 .Root__main-view .os-scrollbar-vertical{
   top: 70px !important;
-  bottom: 10px !important;
+  bottom: 100px !important;
 }
 
 /*** top bar ***/
@@ -255,7 +260,70 @@ button.fmWLzA:hover,
 .LunqxlFIupJw_Dkx6mNx .dvSMET a{
   color: var(--text-color);
 }
-
-.Root__now-playing-bar{
-
+/** footer **/
+.main-view-container__scroll-node-child{
+  padding-bottom: 0px !important;
+}
+.eCtSle {
+  padding-bottom: 110px;
+}
+.Root__main-view {
+  margin-bottom: -90px;
+}
+/*** playingbar ***/
+.Root__now-playing-bar footer{
+  background: var(--playingbar-background);
+  backdrop-filter: blur(var(--playingbar-blur));
+  border-top: none;
+}
+/* song name */
+.Root__now-playing-bar .hGXzYa a {
+  color: var(--text-color);
+  font-size: 1rem;
+}
+.gpNta6i8q3KYJC6WBZQC a:link,
+.gpNta6i8q3KYJC6WBZQC a:visited {
+  color: var(--text-color);
+}
+/* controlers */
+.control-button-heart[aria-checked=false],
+.control-button,
+.xWyve,
+.KVKoQ3u4JpKTvSSFtd6J,
+.fn72ari9aEmKo4JcwteT,
+.vnCew8qzJq3cVGlYFXRI,
+.mnipjT4SLDMgwiDCEnRC,
+.Vz6yjzttS0YlLcwrkoUR{
+  color: var(--text-color) !important;
+  cursor: pointer;
+  background: transparent;
+  transition: 200ms;
+}
+.control-button-heart[aria-checked=false]:hover,
+.control-button:hover,
+.xWyve:hover,
+.KVKoQ3u4JpKTvSSFtd6J:hover,
+.fn72ari9aEmKo4JcwteT:hover,
+.vnCew8qzJq3cVGlYFXRI:hover,
+.mnipjT4SLDMgwiDCEnRC:hover,
+.Vz6yjzttS0YlLcwrkoUR:hover {
+  opacity: 0.6;
+}
+.KAZD28usA1vPz5GVpm63.RK45o6dbvO1mb0wQtSwq:after{
+  display: none;
+}
+.KAZD28usA1vPz5GVpm63.RK45o6dbvO1mb0wQtSwq{
+  background-color: rgba(0,0,0,0.1);
+}
+/* timer */
+.eEALRg{
+  color: var(--text-color) !important;
+}
+/* track slider */
+.playback-bar,
+.volume-bar__slider-container{
+  cursor: pointer;
+}
+.epWhU7hHGktzlO_dop6z {
+  background-color: var(--text-color) !important;
 }
