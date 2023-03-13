@@ -1,3 +1,5 @@
+![Spotify Light Theme](https://i.imgur.com/oD05z1b.png "Spotify Light Theme")
+
 # Spotify Light Theme
 Although most of the **Spotify** users in the idea center have asked to **add a light theme to Spotify**, but so far the color of this app is still **dark**.
 With the description of this repository, you can **add a light theme** or any type of theme to the web version of this famous application. You can even **create your own custom spotify theme** by changing a few color variables. Let's do it.
@@ -38,3 +40,51 @@ for example you can copy:
 ```
 
 5) Refresh Spotify site and enjoy your new theme.
+
+## How to Customize?
+You can easily customize a theme by overwriting some CSS variables.
+
+![](https://i.ibb.co/c3fV8Bj/image.png)
+
+All CSS variables are listed here. You just need to copy them at the end of your file. Of course, if you master CSS, you can make more specialized changes.
+
+```
+:root {
+    --background-color: #fff;
+    --text-color: #333;
+    --text-color-muted: #999;
+    --border-color: #e5e5e5;
+	
+    --primary-color: #18a2ff;
+    --primary-color-hover: #115bbb;
+    --muted-color: #ebfaff;
+    --muted-color-hover: #c9f4fe;
+	
+    --topbar-background: rgba(255, 255, 255, 0.7);
+    --topbar-blur: 10px;
+    --leftbar-background: var(--muted-color);
+    --playingbar-background: rgba(24,162,255, 0.85);
+    --playingbar-blur: 5px;
+	
+    --primary-button-background: var(--primary-color);
+    --primary-button-background-hover: var(--primary-color-hover);
+    --primary-button-text: #fff;
+    --primary-button-text-hover: #fff;
+    --primary-button-border: 0px solid var(--primary-button-background);
+    --primary-button-border-hover: 0px solid var(--primary-button-background-hover);
+	
+    --secondary-button-background: rgba(0, 0, 0, 0.35);
+    --secondary-button-background-hover: rgba(0, 0, 0, 0.7);
+    --secondary-button-text: #fff;
+    --secondary-button-text-hover: #fff;
+    --secondary-button-border: 0px solid var(--secondary-button-background);
+    --secondary-button-border-hover: 0px solid var(--secondary-button-background);
+	
+    --scrollbar-track-color: #eee;
+    --scrollbar-handle-color: #c7c7c7;
+    --scrollbar-handle-active-color: #999;
+}
+```
+| Basic Light Theme  |  ![](https://i.imgur.com/oD05z1b.png)  |
+| :------------: | :------------: |
+| **Customized Theme** | ![](https://i.imgur.com/XhM6ezX.png)  |
