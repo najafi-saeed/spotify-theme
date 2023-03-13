@@ -512,3 +512,18 @@ a.viRsT27AlJDd4bZyiH_k:hover .j1MetdstqbpfRVFl1W01 .jqfHBy{
 .NiCdLCpp3o2z6nBrayOn._LKG3z7SnerR0eigPCoK:hover {
   color: var(--primary-color);
 }
+/**** your library page ****/
+ul li a.JdlKTdpMquftpMwwegZo {
+  color: var(--text-color);
+}
+ul li a.JdlKTdpMquftpMwwegZo:hover {
+  color: var(--primary-color);
+}
+ul li a.oaNVBli46GtVjaQKB15g{
+  background: var(--primary-button-background);
+  color: var(--primary-button-text);
+}
+ul li a.oaNVBli46GtVjaQKB15g:hover {
+  background: var(--primary-button-background-hover);
+  color: var(--primary-button-text-hover);
+}
