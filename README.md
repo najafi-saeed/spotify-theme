@@ -30,7 +30,7 @@ With the description of this repository, you can **add a light theme** or any ty
 
 If you want to get repository updates automatically, you can use `Jsdelivr CDN` to load theme CSS file with this structure:
 
-`@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/`**theme-folder**`/`**theme-file**`.css";`
+<pre>@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/<b>theme-folder</b>/<b>theme-file</b>.css";</pre>
 
 for example you can copy:
 ```
