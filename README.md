@@ -18,7 +18,7 @@ With the description of this repository, you can **add a light theme** or any ty
 | ------------ | ------------ |
 |  [![Google Chrome](https://www.google.com/chrome/static/images/chrome-logo-m100.svg "Google Chrome")](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "Google Chrome") | [![User JavaScript and CSS](https://lh3.googleusercontent.com/1TSw8ZPwr2VvUZlY1cbAPOWo5cisrfpazmTpfGH4YWGTLCJLUq23LMSKuS5ee-bBP5C0GL8wsbpV9iQ9zLEQ6Dv8Vw=w128-h128-e365-rj-sc0x00ffffff "User JavaScript and CSS")](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "User JavaScript and CSS")  |
 
-2) Then open the [Spotify website](https://open.spotify.com/ "Spotify website") and click on the extension and click `Add New`.
+2) Then open the [Spotify website](https://open.spotify.com/ "Spotify website") and click on the extension and click `Add New` button.
 
 ![](https://i.ibb.co/hMm6YxJ/image.png)
 
@@ -26,6 +26,15 @@ With the description of this repository, you can **add a light theme** or any ty
 
 ![](https://i.ibb.co/M2XcZrj/image.png)
 
-4) Go to the [theme folder](https://github.com/najafi-saeed/spotify-theme/tree/development/themes "folder") `themes/CHOOSE_THEME` and choose your theme and copy its css codes here and click on yellow save button.
+4) Go to the [theme folder](https://github.com/najafi-saeed/spotify-theme/tree/development/themes "folder") and choose your theme `themes/CHOOSE_THEME` and copy its css codes here and click on yellow save button. 
+
+If you want to get repository updates automatically, you can use `Jsdelivr CDN` to load theme CSS file with this structure:
+
+`@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/`**theme-folder**`/`**theme-file**`.css";`
+
+for example you can copy:
+```
+@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/light-theme/light-theme.css";
+```
 
 5) Refresh Spotify site and enjoy your new theme.
