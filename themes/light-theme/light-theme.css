@@ -181,18 +181,23 @@ a.wC9sIed7pfp47wZbmU6m:hover {
 }
 /*** buttons ***/
 /* primary buttons */
-button.odcjv30UQnjaTv4sylc0{
+button.odcjv30UQnjaTv4sylc0,
+.gQsfIp .kWONUS,
+.eHhJDl .dpREpp{
   background-color: var(--primary-button-background);
   color: var(--primary-button-text);
   border: var(--primary-button-border);
   transition: 300ms;
+  cursor: pointer;
 }
 button.odcjv30UQnjaTv4sylc0:hover,
 button.odcjv30UQnjaTv4sylc0:focus,
-button.odcjv30UQnjaTv4sylc0[data-context-menu-open=true] {
-  background-color: var(--primary-button-background-hover);
-  color: var(--primary-button-text-hover);
-  border: var(--primary-button-border-hover);
+button.odcjv30UQnjaTv4sylc0[data-context-menu-open=true],
+.gQsfIp:hover .kWONUS,
+.eHhJDl:hover .dpREpp {
+  background-color: var(--primary-button-background-hover) !important;
+  color: var(--primary-button-text-hover) !important;
+  border: var(--primary-button-border-hover) !important;
 }
 /* secondary buttons */
 button.fmWLzA,
@@ -201,14 +206,14 @@ button.fmWLzA,
   color: var(--secondary-button-text);
   border: var(--secondary-button-border);
   transition: 200ms;
+  cursor: pointer;
 }
 button.fmWLzA:hover,
 .VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):hover,
 .VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):focus {
-  background-color: var(--secondary-button-background-hover);
-  color: var(--secondary-button-text-hover);
-  border: var(--secondary-button-border-hover);
-  transition: 200ms;
+  background-color: var(--secondary-button-background-hover) !important;
+  color: var(--secondary-button-text-hover) !important;
+  border: var(--secondary-button-border-hover) !important;
 }
 /* Follow button */
 .idI9vydtCzXVhU1BaKLw{
@@ -224,13 +229,9 @@ button.fmWLzA:hover,
   color: var(--primary-button-text);
 }
 /*** Main section ***/
-.Root__main-view {}
 /* main: first section */
 .Root__main-view .HsbczDqu9qjcYr7EIdHR{
   background-image: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
-}
-.Root__main-view main > *{
-  padding-bottom: 30px;
 }
 .onVWL7MW4PW9FyVajBAc .jOauWH{
   color: var(--text-color);
@@ -424,6 +425,14 @@ button.fmWLzA:hover,
 .jxpjIP:hover {
   color: var(--text-color) !important;
 }
+.h4HgbO_Uu1JYg5UGANeQ.iSbqnFdjb1SuyJ3uWydl .VpYFchIiPg3tPhBGyynT,
+.h4HgbO_Uu1JYg5UGANeQ.iSbqnFdjb1SuyJ3uWydl .t_yrXoUO3qGsJS4Y6iXX {
+  color: var(--primary-color);
+}
+.h4HgbO_Uu1JYg5UGANeQ.iSbqnFdjb1SuyJ3uWydl:hover .VpYFchIiPg3tPhBGyynT,
+.h4HgbO_Uu1JYg5UGANeQ.iSbqnFdjb1SuyJ3uWydl:hover .t_yrXoUO3qGsJS4Y6iXX {
+  color: var(--primary-color);
+}
 /**** artist page ****/
 .BL__GuO2JsHMR6RgNfwY {
   background-color: var(--background-color) !important;
@@ -516,6 +525,15 @@ a.viRsT27AlJDd4bZyiH_k:hover .j1MetdstqbpfRVFl1W01 .jqfHBy{
 }
 .NiCdLCpp3o2z6nBrayOn._LKG3z7SnerR0eigPCoK:hover {
   color: var(--primary-color);
+}
+/* lyric in song page */
+.eRYMpa.NAaJboGa8qckhNNQTKTn {
+  font-family: sahel, iranyekan, iransans;
+  color: var(--text-color);
+  width: 100%;
+}
+.L8zjshPVgUMXyZR4FtOk{
+  color: var(--text-color) !important;
 }
 /**** your library page ****/
 ul li a.JdlKTdpMquftpMwwegZo {
