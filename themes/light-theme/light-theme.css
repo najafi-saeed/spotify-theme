@@ -344,6 +344,11 @@ button.fmWLzA:hover,
 .epWhU7hHGktzlO_dop6z {
   background-color: var(--text-color) !important;
 }
+/* connect to device */
+.aCtCKL9BxAoHeVZS0uRs .jqfHBy,
+.aCtCKL9BxAoHeVZS0uRs .bDOlOS {
+  color: var(--text-base, #000000) !important;
+}
 /***** playlist page *****/
 .xYgjMpAjE5XT05aRIezb{
   background: linear-gradient(transparent 0, rgba(255, 255, 255, 0.7) 100%);
