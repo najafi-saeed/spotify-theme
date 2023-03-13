@@ -229,6 +229,9 @@ button.fmWLzA:hover,
 .Root__main-view .HsbczDqu9qjcYr7EIdHR{
   background-image: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
 }
+.Root__main-view main > *{
+  padding-bottom: 30px;
+}
 .onVWL7MW4PW9FyVajBAc .jOauWH{
   color: var(--text-color);
 }
