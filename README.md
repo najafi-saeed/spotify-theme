@@ -1,4 +1,4 @@
-#Spotify Light Theme
+# Spotify Light Theme
 Although most of the **Spotify** users in the idea center have asked to **add a light theme to Spotify**, but so far the color of this app is still **dark**.
 With the description of this repository, you can **add a light theme** or any type of theme to the web version of this famous application. You can even **create your own custom spotify theme** by changing a few color variables. Let's do it.
 
@@ -26,6 +26,6 @@ With the description of this repository, you can **add a light theme** or any ty
 
 ![](https://i.ibb.co/M2XcZrj/image.png)
 
-4) Go to the [theme folder](https://github.com/najafi-saeed/spotify-theme/tree/development/themes/light-theme "folder") `themes/CHOOSE_THEME` and copy its css codes here and click on yellow save button.
+4) Go to the [theme folder](https://github.com/najafi-saeed/spotify-theme/tree/development/themes "folder") `themes/CHOOSE_THEME` and choose your theme and copy its css codes here and click on yellow save button.
 
 5) Refresh Spotify site and enjoy your new theme.
