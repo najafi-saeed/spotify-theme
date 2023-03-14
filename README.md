@@ -4,6 +4,15 @@
 Although most of the **Spotify** users in the idea center have asked to **add a light theme to Spotify**, but so far the color of this app is still **dark**.
 With the description of this repository, you can **add a light theme** or any type of theme to the web version of this famous application. You can even **create your own custom spotify theme** by changing a few color variables. Let's do it.
 
+**Table of Contents**
+
+- [Features](#features)
+
+- [How to use?](#how-to-use)
+
+- [How to customize?](#how-to-customize)
+
+- [Screenshots](#screenshots)
 
 ## Features
 
@@ -41,7 +50,7 @@ for example you can copy:
 
 5) Refresh Spotify site and enjoy your new theme.
 
-## How to Customize?
+## How to customize?
 You can easily customize a theme by overwriting some CSS variables.
 
 ![](https://i.ibb.co/c3fV8Bj/image.png)
@@ -88,3 +97,14 @@ All CSS variables are listed here. You just need to copy them at the end of your
 | Basic Light Theme  |  ![](https://i.imgur.com/oD05z1b.png)  |
 | :------------: | :------------: |
 | **Customized Theme** | ![](https://i.imgur.com/XhM6ezX.png)  |
+
+## Screenshots
+
+Here you can see some screenshots of the application pages. Really nice! The Blur effect has made the pages much more beautiful.
+
+| <br> ![](https://i.imgur.com/3ZVMZk1.png) Artist Page  | <br> ![](https://i.imgur.com/yd7dT1a.png) Artist Page  |
+| :------------: | :------------: |
+| <br> ![](https://i.imgur.com/rDAROdJ.png) Playlist Page  | <br>  ![](https://i.imgur.com/081S3TN.png) Playlist Page |
+|  <br> ![](https://i.imgur.com/i0qgXgE.png) Playlist Page | <br> ![](https://i.imgur.com/ZlJremU.png) Search Page/ Albums |
+| <br> ![](https://i.imgur.com/7QI84bD.png) Lyric Page | <br> ![](https://i.imgur.com/qDOvkqD.png) Discography Section |
+| <br> ![](https://i.imgur.com/6qlBOf6.png) Search Page / Recent searches |  <br> ![](https://i.imgur.com/iATbZSe.png) Album Page |
