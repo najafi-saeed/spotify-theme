@@ -14,6 +14,7 @@
 
   --topbar-background: rgba(255, 255, 255, 0.7);
   --topbar-blur: 10px;
+  --home-hero-background: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
   --leftbar-background: var(--muted-color);
   --playingbar-background: rgba(239, 135, 255, 0.85);
   --playingbar-blur: 5px;

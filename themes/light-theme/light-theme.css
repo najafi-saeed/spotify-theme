@@ -10,6 +10,7 @@
   /* sections */
   --topbar-background: rgba(255, 255, 255, 0.7);
   --topbar-blur: 10px;
+  --home-hero-background: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
   --leftbar-background: var(--muted-color);
   --playingbar-background: rgba(25,206,92, 0.85);
   --playingbar-blur: 5px;
@@ -229,9 +230,9 @@ button.fmWLzA:hover,
   color: var(--primary-button-text);
 }
 /*** Main section ***/
-/* main: first section */
+/* main: home hero section */
 .Root__main-view .HsbczDqu9qjcYr7EIdHR{
-  background-image: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
+  background-image: var(--home-hero-background);
 }
 .onVWL7MW4PW9FyVajBAc .jOauWH{
   color: var(--text-color);
