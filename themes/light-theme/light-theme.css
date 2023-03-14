@@ -14,6 +14,8 @@
   --leftbar-background: var(--muted-color);
   --playingbar-background: rgba(25,206,92, 0.85);
   --playingbar-blur: 5px;
+  --playlist-hero-gradient:   rgba(255, 255, 255, 0.7);
+  --playlist-hero-gradient-2: rgba(255, 255, 255, 0.6);
   /* buttons */
   --primary-button-background:       var(--primary-color);
   --primary-button-background-hover: var(--primary-color-hover);
@@ -353,7 +355,7 @@ button.fmWLzA:hover,
 }
 /***** playlist page *****/
 .xYgjMpAjE5XT05aRIezb{
-  background: linear-gradient(transparent 0, rgba(255, 255, 255, 0.7) 100%);
+  background: linear-gradient(transparent 0, var(--playlist-hero-gradient) 100%);
 }
 .NXiYChVp4Oydfxd7rT5r,
 .UyzJidwrGk3awngSGIwv,
@@ -371,7 +373,7 @@ button.fmWLzA:hover,
   background: var(--background-color) !important;
 }
 .CoLO4pdSl8LGWyVZA00t{
-  background-image: linear-gradient(rgba(255, 255, 255, .6) 0, var(--background-color) 100%);
+  background-image: linear-gradient(var(--playlist-hero-gradient-2) 0, var(--background-color) 100%);
 }
 /* table items */
 .qJOhHoRcFhHJpEQ2CwFT.koyeY6AgGRPmyPITi7yO{
