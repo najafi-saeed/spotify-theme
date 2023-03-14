@@ -71,6 +71,7 @@ All CSS variables are listed here. You just need to copy them at the end of your
 	
     --topbar-background: rgba(255, 255, 255, 0.7);
     --topbar-blur: 10px;
+    --home-hero-background: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
     --leftbar-background: var(--muted-color);
     --playingbar-background: rgba(24,162,255, 0.85);
     --playingbar-blur: 5px;
