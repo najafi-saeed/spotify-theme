@@ -1,0 +1,38 @@
+@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/light-theme/light-theme.css";
+
+
+:root {
+  --background-color: #fff;
+  --text-color: #333;
+  --text-color-muted: #999;
+  --border-color: #e5e5e5;
+
+  --primary-color: #18a2ff;
+  --primary-color-hover: #115bbb;
+  --muted-color: #ebfaff;
+  --muted-color-hover: #c9f4fe;
+
+  --topbar-background: rgba(255, 255, 255, 0.7);
+  --topbar-blur: 10px;
+  --leftbar-background: var(--muted-color);
+  --playingbar-background: rgba(24, 162, 255, 0.85);
+  --playingbar-blur: 5px;
+
+  --primary-button-background: var(--primary-color);
+  --primary-button-background-hover: var(--primary-color-hover);
+  --primary-button-text: #fff;
+  --primary-button-text-hover: #fff;
+  --primary-button-border: 0px solid var(--primary-button-background);
+  --primary-button-border-hover: 0px solid var(--primary-button-background-hover);
+
+  --secondary-button-background: rgba(0, 0, 0, 0.35);
+  --secondary-button-background-hover: rgba(0, 0, 0, 0.7);
+  --secondary-button-text: #fff;
+  --secondary-button-text-hover: #fff;
+  --secondary-button-border: 0px solid var(--secondary-button-background);
+  --secondary-button-border-hover: 0px solid var(--secondary-button-background);
+
+  --scrollbar-track-color: #eee;
+  --scrollbar-handle-color: #c7c7c7;
+  --scrollbar-handle-active-color: #999;
+}
