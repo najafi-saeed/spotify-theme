@@ -1,0 +1,32 @@
+@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/dark-theme/dark-theme.css";
+
+:root {
+  --background-color: #191755;
+  --border-color: #191755;
+  --muted-color: #312e81;
+  --muted-color-hover: #3730a3;
+  --text-color: #e0e7ff;
+  --text-color-muted: #a5b4fc;
+  --primary-color: #ff4dad;
+  --primary-color-hover: #dc2387;
+  /* sections */
+  --topbar-background: rgba(49, 46, 129, 0.4);
+  --home-hero-background: linear-gradient(rgba(0, 0, 0, .4) 0, var(--muted-color-hover) 80%);
+  --leftbar-background: var(--muted-color);
+  --playingbar-background: rgba(255, 77, 173, 0.85);
+  --playlist-hero-gradient: rgba(25, 23, 85, 0.7);
+  --playlist-hero-gradient-2: rgba(25, 23, 85, 0.4);
+  /* buttons */
+  --primary-button-background: var(--primary-color);
+  --primary-button-background-hover: var(--primary-color-hover);
+  --primary-button-text: #fff;
+  --primary-button-text-hover: #fff;
+  --secondary-button-background: rgba(255, 255, 255, 0.2);
+  --secondary-button-background-hover: rgba(255, 255, 255, 0.5);
+  --secondary-button-text: #fff;
+  --secondary-button-text-hover: #fff;
+  /* scrollbar */
+  --scrollbar-track-color: #45419b;
+  --scrollbar-handle-color: #706cd2;
+  --scrollbar-handle-active-color: #aca8ff;
+}
