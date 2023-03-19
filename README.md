@@ -30,16 +30,16 @@ With the description of this repository, you can **add a light theme** or any ty
 
 | Browser        | Extension   |  | Browser | Extension |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| <img src="assets/logo-chrome.svg" width="60"> | <img src="https://lh3.googleusercontent.com/1TSw8ZPwr2VvUZlY1cbAPOWo5cisrfpazmTpfGH4YWGTLCJLUq23LMSKuS5ee-bBP5C0GL8wsbpV9iQ9zLEQ6Dv8Vw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/>[User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "User JavaScript and CSS") <br/> <br/> <img src="https://lh3.googleusercontent.com/NVE-qSLw8B4rMpNaXBMOs6mHgEiD9EyIrW-gzyu307YIA6B_WUuPD6cfuCV5hEDqsWg4PPRoInc8ayTJz8nnNnD9sFw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/> [Code Injector](https://chrome.google.com/webstore/detail/code-injector/edkcmfocepnifkbnbkmlcmegedeikdeb "Code Injector") | | <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.svg" width="60"> | <img src="https://lh3.googleusercontent.com/NVE-qSLw8B4rMpNaXBMOs6mHgEiD9EyIrW-gzyu307YIA6B_WUuPD6cfuCV5hEDqsWg4PPRoInc8ayTJz8nnNnD9sFw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/> [Code Injector](https://addons.mozilla.org/en-US/firefox/addon/codeinjector/ "Code Injector")   | 
-| <img src="https://raw.githubusercontent.com/Lor-Saba/Code-Injector/master/readme-resources/browsers/edge-webkit.png" width="60"> | <img src="https://lh3.googleusercontent.com/NVE-qSLw8B4rMpNaXBMOs6mHgEiD9EyIrW-gzyu307YIA6B_WUuPD6cfuCV5hEDqsWg4PPRoInc8ayTJz8nnNnD9sFw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/> [Code Injector](https://microsoftedge.microsoft.com/addons/detail/kgmlfocfgenookigofalapefagndnlnc")| | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/da/ed/d6daeda8-e1e0-d08e-e8fd-7fd0f401f1f3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width="60"> | <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/59/bc/13/59bc134b-51d3-2e25-7828-5e9a3e820206/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/230x0w.webp" width="60"> <br/> [Tamperish](https://apps.apple.com/cd/app/tamperish-for-safari/id1516885392?mt=12 "Tamperish") / [document](https://github.com/username0x0a/Tamperish "document") |
+| <img src="assets/logo-chrome.svg" width="60"> | <img src="assets/logo-user-js-css.jpeg" width="60"> <br/>[User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "User JavaScript and CSS") <br/> <br/> <img src="assets/logo-code-injector.jpeg" width="60"> <br/> [Code Injector](https://chrome.google.com/webstore/detail/code-injector/edkcmfocepnifkbnbkmlcmegedeikdeb "Code Injector") | | <img src="assets/logo-firefox.svg" width="60"> | <img src="assets/logo-code-injector.jpeg" width="60"> <br/> [Code Injector](https://addons.mozilla.org/en-US/firefox/addon/codeinjector/ "Code Injector")   | 
+| <img src="assets/logo-edge.png" width="60"> | <img src="assets/logo-code-injector.jpeg" width="60"> <br/> [Code Injector](https://microsoftedge.microsoft.com/addons/detail/kgmlfocfgenookigofalapefagndnlnc")| | <img src="assets/logo-safari.webp" width="60"> | <img src="assets/logo-tamperish.webp" width="60"> <br/> [Tamperish](https://apps.apple.com/cd/app/tamperish-for-safari/id1516885392?mt=12 "Tamperish") / [document](https://github.com/username0x0a/Tamperish "document") |
 
 2) Then open the [Spotify website](https://open.spotify.com/ "Spotify website") and click on the extension and click `Add New` button.
 
-![](https://i.ibb.co/hMm6YxJ/image.png)
+![](assets/guide-1.png)
 
 3) Now, in the CSS section, you should copy or import the theme css code.
 
-![](https://i.ibb.co/M2XcZrj/image.png)
+![](assets/guide-2.png)
 
 4) Go to the [theme folder](https://github.com/najafi-saeed/spotify-theme/tree/development/themes "folder") and choose your theme `themes/CHOOSE_THEME` and copy its css codes here and click on yellow save button. 
 
@@ -57,7 +57,7 @@ for example you can copy:
 ## How to customize?
 You can easily customize a theme by overwriting some CSS variables.
 
-![](https://i.ibb.co/c3fV8Bj/image.png)
+![](assets/customize-1.png)
 
 All CSS variables are listed here. You just need to copy them at the end of your file. Of course, if you master CSS, you can make more specialized changes.
 
@@ -100,17 +100,17 @@ All CSS variables are listed here. You just need to copy them at the end of your
   --scrollbar-handle-active-color: #999;
 }
 ```
-| Basic Light Theme  |  ![](https://i.imgur.com/oD05z1b.png)  |
+| Basic Light Theme  |  ![](assets/customize-2.png)  |
 | :------------: | :------------: |
-| **Customized Theme** | ![](https://i.imgur.com/XhM6ezX.png)  |
+| **Customized Theme** | ![](assets/customize-3.png)  |
 
 ## Screenshots
 
 Here you can see some screenshots of the application pages. Really nice! The Blur effect has made the pages much more beautiful.
 
-| <br> ![](https://i.imgur.com/3ZVMZk1.png) Artist Page  | <br> ![](https://i.imgur.com/yd7dT1a.png) Artist Page  |
+| <br> ![](assets/screenshot-1-artist-page.png) Artist Page  | <br> ![](assets/screenshot-2-artist-page.png) Artist Page  |
 | :------------: | :------------: |
-| <br> ![](https://i.imgur.com/rDAROdJ.png) Playlist Page  | <br>  ![](https://i.imgur.com/081S3TN.png) Playlist Page |
-|  <br> ![](https://i.imgur.com/i0qgXgE.png) Playlist Page | <br> ![](https://i.imgur.com/ZlJremU.png) Search Page/ Albums |
-| <br> ![](https://i.imgur.com/7QI84bD.png) Lyric Page | <br> ![](https://i.imgur.com/qDOvkqD.png) Discography Section |
-| <br> ![](https://i.imgur.com/6qlBOf6.png) Search Page / Recent searches |  <br> ![](https://i.imgur.com/iATbZSe.png) Album Page |
+| <br> ![](assets/screenshot-3-playlist-page) Playlist Page  | <br>  ![](assets/screenshot-4-playlist-page.png) Playlist Page |
+|  <br> ![](assets/screenshot-5-playlist-page.png) Playlist Page | <br> ![](assets/screenshot-6-search-albums.png) Search Page/ Albums |
+| <br> ![](assets/screenshot-7-lyric-page.png) Lyric Page | <br> ![](assets/screenshot-8-discography.png) Discography Section |
+| <br> ![](assets/screenshot-9-search-recent.png) Search Page / Recent searches |  <br> ![](assets/screenshot-10-album-page.png) Album Page |
