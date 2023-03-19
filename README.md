@@ -45,11 +45,11 @@ With the description of this repository, you can **add a light theme** or any ty
 
 If you want to get repository updates automatically, you can use `Jsdelivr CDN` to load theme CSS file with this structure:
 
-<pre>@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/<b>theme-folder</b>/<b>theme-file</b>.css";</pre>
+<pre>@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/<b>theme-folder</b>/<b>theme-file</b>.min.css";</pre>
 
 for example you can copy:
 ```
-@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/light-theme/light-theme.css";
+@import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/light-theme/light-theme.min.css";
 ```
 
 5) Refresh Spotify site and enjoy your new theme.
