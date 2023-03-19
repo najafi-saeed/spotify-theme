@@ -12,6 +12,8 @@ With the description of this repository, you can **add a light theme** or any ty
 
 - [How to customize?](#how-to-customize)
 
+- [Themes](#themes)
+
 - [Screenshots](#screenshots)
 
 ## Features
@@ -104,13 +106,23 @@ All CSS variables are listed here. You just need to copy them at the end of your
 | :------------: | :------------: |
 | **Customized Theme** | ![](assets/customize-3.png)  |
 
+## Themes
+
+In addition to the light theme, several other themes have also been developed, which you can see in the list.
+
+- [light theme](themes/light-theme "light theme")
+- [light blue theme](themes/light-blue-theme "light blue theme")
+- [light purple theme](themes/light-purple-theme "light purple theme")
+- [dark theme](themes/dark-theme "dark theme")
+- [dark purple theme](themes/dark-purple-theme "dark purple theme")
+
 ## Screenshots
 
 Here you can see some screenshots of the application pages. Really nice! The Blur effect has made the pages much more beautiful.
 
 | <br> ![](assets/screenshot-1-artist-page.png) Artist Page  | <br> ![](assets/screenshot-2-artist-page.png) Artist Page  |
 | :------------: | :------------: |
-| <br> ![](assets/screenshot-3-playlist-page) Playlist Page  | <br>  ![](assets/screenshot-4-playlist-page.png) Playlist Page |
+| <br> ![](assets/screenshot-3-playlist-page.png) Playlist Page  | <br>  ![](assets/screenshot-4-playlist-page.png) Playlist Page |
 |  <br> ![](assets/screenshot-5-playlist-page.png) Playlist Page | <br> ![](assets/screenshot-6-search-albums.png) Search Page/ Albums |
 | <br> ![](assets/screenshot-7-lyric-page.png) Lyric Page | <br> ![](assets/screenshot-8-discography.png) Discography Section |
 | <br> ![](assets/screenshot-9-search-recent.png) Search Page / Recent searches |  <br> ![](assets/screenshot-10-album-page.png) Album Page |
