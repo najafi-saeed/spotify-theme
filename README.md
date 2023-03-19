@@ -116,6 +116,37 @@ In addition to the light theme, several other themes have also been developed, w
 - [dark theme](themes/dark-theme "dark theme")
 - [dark purple theme](themes/dark-purple-theme "dark purple theme")
 
+<br/>
+<p align="center">
+  <b>Light Theme</b>
+  <img src="assets/theme-light.png" width="800">
+</p>
+
+<br/>
+<p align="center">
+  <b>Light Blue Theme</b>
+  <img src="assets/theme-blue-light.png" width="800">
+</p>
+
+<br/>
+<p align="center">
+  <b>Light Purple Theme</b>
+  <img src="assets/theme-purple-light.png" width="800">
+</p>
+
+<br/>
+<p align="center">
+  <b>Dark Theme</b>
+  <img src="assets/theme-dark.png" width="800">
+</p>
+
+<br/>
+<p align="center">
+  <b>Dark Purple Theme</b>
+  <img src="assets/theme-dark-purple.png" width="800">
+</p>
+<br/>
+
 ## Screenshots
 
 Here you can see some screenshots of the application pages. Really nice! The Blur effect has made the pages much more beautiful.
