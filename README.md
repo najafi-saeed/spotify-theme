@@ -23,11 +23,15 @@ With the description of this repository, you can **add a light theme** or any ty
 
 ## How to use?
 
-1) First, you need to install a browser extension in order to inject CSS to the site you visit. you can use `User JavaScript and CSS` extension for Google Chrome. [Download and install here](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "Download and install here").
+1) First, you need to install a browser extension in order to inject CSS to the site you visit. 
 
-| Browser        | Extension   |
-| ------------ | ------------ |
-|  [![Google Chrome](https://www.google.com/chrome/static/images/chrome-logo-m100.svg "Google Chrome")](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "Google Chrome") | [![User JavaScript and CSS](https://lh3.googleusercontent.com/1TSw8ZPwr2VvUZlY1cbAPOWo5cisrfpazmTpfGH4YWGTLCJLUq23LMSKuS5ee-bBP5C0GL8wsbpV9iQ9zLEQ6Dv8Vw=w128-h128-e365-rj-sc0x00ffffff "User JavaScript and CSS")](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "User JavaScript and CSS")  |
+- you can use `User JavaScript and CSS` extension for Google Chrome. [Download and install here](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "Download and install here").
+- For other browsers, you can download and install the appropriate extension from the table below.
+
+| Browser        | Extension   |  | Browser | Extension |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+| <img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg" width="60"> | <img src="https://lh3.googleusercontent.com/1TSw8ZPwr2VvUZlY1cbAPOWo5cisrfpazmTpfGH4YWGTLCJLUq23LMSKuS5ee-bBP5C0GL8wsbpV9iQ9zLEQ6Dv8Vw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/>[User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en "User JavaScript and CSS") <br/> <br/> <img src="https://lh3.googleusercontent.com/NVE-qSLw8B4rMpNaXBMOs6mHgEiD9EyIrW-gzyu307YIA6B_WUuPD6cfuCV5hEDqsWg4PPRoInc8ayTJz8nnNnD9sFw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/> [Code Injector](https://chrome.google.com/webstore/detail/code-injector/edkcmfocepnifkbnbkmlcmegedeikdeb "Code Injector") | | <img src="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.svg" width="60"> | <img src="https://lh3.googleusercontent.com/NVE-qSLw8B4rMpNaXBMOs6mHgEiD9EyIrW-gzyu307YIA6B_WUuPD6cfuCV5hEDqsWg4PPRoInc8ayTJz8nnNnD9sFw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/> [Code Injector](https://addons.mozilla.org/en-US/firefox/addon/codeinjector/ "Code Injector")   | 
+| <img src="https://raw.githubusercontent.com/Lor-Saba/Code-Injector/master/readme-resources/browsers/edge-webkit.png" width="60"> | <img src="https://lh3.googleusercontent.com/NVE-qSLw8B4rMpNaXBMOs6mHgEiD9EyIrW-gzyu307YIA6B_WUuPD6cfuCV5hEDqsWg4PPRoInc8ayTJz8nnNnD9sFw=w128-h128-e365-rj-sc0x00ffffff" width="60"> <br/> [Code Injector](https://microsoftedge.microsoft.com/addons/detail/kgmlfocfgenookigofalapefagndnlnc")| | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/da/ed/d6daeda8-e1e0-d08e-e8fd-7fd0f401f1f3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" width="60"> | <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/59/bc/13/59bc134b-51d3-2e25-7828-5e9a3e820206/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/230x0w.webp" width="60"> <br/> [Tamperish](https://apps.apple.com/cd/app/tamperish-for-safari/id1516885392?mt=12 "Tamperish") / [document](https://github.com/username0x0a/Tamperish "document") |
 
 2) Then open the [Spotify website](https://open.spotify.com/ "Spotify website") and click on the extension and click `Add New` button.
 
