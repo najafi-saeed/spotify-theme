@@ -63,40 +63,41 @@ All CSS variables are listed here. You just need to copy them at the end of your
 
 ```
 :root {
-    --background-color: #fff;
-    --text-color: #333;
-    --text-color-muted: #999;
-    --border-color: #e5e5e5;
-	
-    --primary-color: #18a2ff;
-    --primary-color-hover: #115bbb;
-    --muted-color: #ebfaff;
-    --muted-color-hover: #c9f4fe;
-	
-    --topbar-background: rgba(255, 255, 255, 0.7);
-    --topbar-blur: 10px;
-    --home-hero-background: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
-    --leftbar-background: var(--muted-color);
-    --playingbar-background: rgba(24,162,255, 0.85);
-    --playingbar-blur: 5px;
-	
-    --primary-button-background: var(--primary-color);
-    --primary-button-background-hover: var(--primary-color-hover);
-    --primary-button-text: #fff;
-    --primary-button-text-hover: #fff;
-    --primary-button-border: 0px solid var(--primary-button-background);
-    --primary-button-border-hover: 0px solid var(--primary-button-background-hover);
-	
-    --secondary-button-background: rgba(0, 0, 0, 0.35);
-    --secondary-button-background-hover: rgba(0, 0, 0, 0.7);
-    --secondary-button-text: #fff;
-    --secondary-button-text-hover: #fff;
-    --secondary-button-border: 0px solid var(--secondary-button-background);
-    --secondary-button-border-hover: 0px solid var(--secondary-button-background);
-	
-    --scrollbar-track-color: #eee;
-    --scrollbar-handle-color: #c7c7c7;
-    --scrollbar-handle-active-color: #999;
+  --background-color: #fff;
+  --text-color: #333;
+  --text-color-muted: #999;
+  --border-color: #e5e5e5;
+  --primary-color: #19ce5c;
+  --primary-color-hover: #0dab47;
+  --muted-color: #f5f5f5;
+  --muted-color-hover: #caffde;
+  /* sections */
+  --topbar-background: rgba(255, 255, 255, 0.7);
+  --topbar-blur: 10px;
+  --home-hero-background: linear-gradient(rgba(255, 255, 255, .7) 0, var(--muted-color-hover) 80%);
+  --leftbar-background: var(--muted-color);
+  --playingbar-background: rgba(25,206,92, 0.85);
+  --playingbar-blur: 5px;
+  --playlist-hero-gradient:   rgba(255, 255, 255, 0.7);
+  --playlist-hero-gradient-2: rgba(255, 255, 255, 0.6);
+  /* buttons */
+  --primary-button-background:       var(--primary-color);
+  --primary-button-background-hover: var(--primary-color-hover);
+  --primary-button-text:       #fff;
+  --primary-button-text-hover: #fff;
+  --primary-button-border:        0px solid var(--primary-button-background);
+  --primary-button-border-hover:  0px solid var(--primary-button-background-hover);
+
+  --secondary-button-background:        rgba(0, 0, 0, 0.35);
+  --secondary-button-background-hover:  rgba(0, 0, 0, 0.7);
+  --secondary-button-text:        #fff;
+  --secondary-button-text-hover:  #fff;
+  --secondary-button-border:        0px solid var(--secondary-button-background);
+  --secondary-button-border-hover:  0px solid var(--secondary-button-background);
+  /* scrollbar */
+  --scrollbar-track-color: #eee;
+  --scrollbar-handle-color: #c7c7c7;
+  --scrollbar-handle-active-color: #999;
 }
 ```
 | Basic Light Theme  |  ![](https://i.imgur.com/oD05z1b.png)  |
