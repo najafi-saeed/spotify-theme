@@ -1,4 +1,4 @@
-![Spotify Light Theme](https://i.imgur.com/oD05z1b.png "Spotify Light Theme")
+![Spotify Light Theme](assets/spotify-light-theme.png)
 
 # Spotify Light Theme
 Although most of the **Spotify** users in the idea center have asked to **add a light theme to Spotify**, but so far the color of this app is still **dark**.
