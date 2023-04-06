@@ -204,6 +204,7 @@ button.odcjv30UQnjaTv4sylc0[data-context-menu-open=true],
 }
 /* secondary buttons */
 button.fmWLzA,
+button.iVrvaH,
 .VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0{
   background-color: var(--secondary-button-background);
   color: var(--secondary-button-text);
@@ -212,6 +213,7 @@ button.fmWLzA,
   cursor: pointer;
 }
 button.fmWLzA:hover,
+button.iVrvaH:hover,
 .VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):hover,
 .VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):focus {
   background-color: var(--secondary-button-background-hover) !important;
@@ -281,6 +283,9 @@ button.fmWLzA:hover,
 .LunqxlFIupJw_Dkx6mNx .dvSMET a{
   color: var(--text-color);
 }
+a .bDwzoz{
+  color: inherit;
+}
 /** footer **/
 .main-view-container__scroll-node-child{
   padding-bottom: 0px !important;
@@ -314,7 +319,8 @@ button.fmWLzA:hover,
 .fn72ari9aEmKo4JcwteT,
 .vnCew8qzJq3cVGlYFXRI,
 .mnipjT4SLDMgwiDCEnRC,
-.Vz6yjzttS0YlLcwrkoUR{
+.Vz6yjzttS0YlLcwrkoUR,
+.ePIdkV{
   color: var(--text-color) !important;
   cursor: pointer;
   background: transparent;
@@ -327,7 +333,8 @@ button.fmWLzA:hover,
 .fn72ari9aEmKo4JcwteT:hover,
 .vnCew8qzJq3cVGlYFXRI:hover,
 .mnipjT4SLDMgwiDCEnRC:hover,
-.Vz6yjzttS0YlLcwrkoUR:hover {
+.Vz6yjzttS0YlLcwrkoUR:hover,
+.ePIdkV:hover {
   opacity: 0.6;
 }
 .KAZD28usA1vPz5GVpm63.RK45o6dbvO1mb0wQtSwq:after{
