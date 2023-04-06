@@ -162,6 +162,10 @@ ul.RSg3qFREWrqWCuUvDpJR li.eNs6P3JYpf2LScgTDHc6 a.link-subtle svg{
 .Root__top-bar .T1xI1RTSFU7Wu94UuvE6 .EvIR4O7jOSbNmxtMdIQ0{
   background-color: transparent !important;
 }
+/* not logged-in topbar*/
+.qxbaGYC8rgMLfyOuYRCM {
+  background-color: transparent;
+}
 /* topbar profile and all dropdown menu */
 ul.SboKmDrCTZng7t4EgNoM {
   background-color: var(--muted-color);
@@ -186,7 +190,8 @@ a.wC9sIed7pfp47wZbmU6m:hover {
 /* primary buttons */
 button.odcjv30UQnjaTv4sylc0,
 .gQsfIp .kWONUS,
-.eHhJDl .dpREpp{
+.eHhJDl .dpREpp,
+.LKFFk88SIRC9QKKUWR5u .eeDakC .iIKcFo{
   background-color: var(--primary-button-background);
   color: var(--primary-button-text);
   border: var(--primary-button-border);
@@ -197,7 +202,8 @@ button.odcjv30UQnjaTv4sylc0:hover,
 button.odcjv30UQnjaTv4sylc0:focus,
 button.odcjv30UQnjaTv4sylc0[data-context-menu-open=true],
 .gQsfIp:hover .kWONUS,
-.eHhJDl:hover .dpREpp {
+.eHhJDl:hover .dpREpp,
+.LKFFk88SIRC9QKKUWR5u .eeDakC .iIKcFo:hover{
   background-color: var(--primary-button-background-hover) !important;
   color: var(--primary-button-text-hover) !important;
   border: var(--primary-button-border-hover) !important;
@@ -205,7 +211,9 @@ button.odcjv30UQnjaTv4sylc0[data-context-menu-open=true],
 /* secondary buttons */
 button.fmWLzA,
 button.iVrvaH,
-.VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0{
+.VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0,
+.Ka2HOvFsfXcLu7He0nTD .hfnYJy,
+.LKFFk88SIRC9QKKUWR5u .jjtmnk{
   background-color: var(--secondary-button-background);
   color: var(--secondary-button-text);
   border: var(--secondary-button-border);
@@ -215,10 +223,21 @@ button.iVrvaH,
 button.fmWLzA:hover,
 button.iVrvaH:hover,
 .VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):hover,
-.VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):focus {
+.VgSbatGBB9XwTH2_dsxg button.ql0zZd7giPXSnPg75NR0:not(:disabled):focus,
+.Ka2HOvFsfXcLu7He0nTD .hfnYJy:hover,
+.LKFFk88SIRC9QKKUWR5u .jjtmnk:hover{
   background-color: var(--secondary-button-background-hover) !important;
   color: var(--secondary-button-text-hover) !important;
   border: var(--secondary-button-border-hover) !important;
+}
+/* signup and login button */
+.LKFFk88SIRC9QKKUWR5u .jjtmnk,
+.LKFFk88SIRC9QKKUWR5u .eeDakC .iIKcFo{
+  padding: 8px 20px !important;
+  min-block-size: unset;
+}
+.LKFFk88SIRC9QKKUWR5u .jjtmnk{
+  margin-right: 15px;
 }
 /* Follow button */
 .idI9vydtCzXVhU1BaKLw{
