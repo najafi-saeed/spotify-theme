@@ -1,6 +1,8 @@
 @import "https://cdn.jsdelivr.net/gh/najafi-saeed/spotify-theme/themes/light-theme/light-theme.css";
 
 
+.encore-dark-theme,
+.encore-dark-theme .encore-base-set,
 :root {
   --primary-color: #ef87ff;
   --primary-color-hover: #d154e4;
